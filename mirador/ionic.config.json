@@ -1,0 +1,7 @@
+{
+  "name": "mirador",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
